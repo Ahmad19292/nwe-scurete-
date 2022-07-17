@@ -66,7 +66,7 @@ calli.on("message", message => {
   }
 });
 ///////////////////////////////////////////////////////////////////////////////
-calli.login("تــــــۆکــیــن لێرە دانێ")
+calli.login("OTk4MTI2NjIwMDcyMjE4NjQ0.Gdh6zk.VlFjlzvk5AIs3atwtL4gzD_51SW4_L7BBVc71A")
 ///////////////////////////////////////////////////////////////////////////////
 const FiiXenabled  = "";
 const FiiXdisabled = "";
